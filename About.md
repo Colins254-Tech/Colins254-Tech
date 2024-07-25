@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Colins254-Tech
-- 👀 I’m interested in Data Science and Data engineering as wellas developing AI systems to process big data.
+- 👋 Hi, I’m Colins Cheruiyot
+- 👀 I’m interested in Data Science and Data engineering as well as developing AI systems to process big data.
 - 🌱 I’m currently learning and advancing my career  in Data Science and data analytics as well as Geospatial Sciences.
 - 💞️ I’m looking to collaborate on Data Science projects or Geospatial related projects.
 - 📫 How to reach me: Contacts: +254728697430, email: ckcolins9882@gmail.com
